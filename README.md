@@ -1,4 +1,4 @@
-Blob-Platformer
+2DPlatformer
 ===============
 
 Networked two-dimensional platform game.
